@@ -1,0 +1,8 @@
+1.	Campo de pesquisa do Google finance para comparativo de ações do mercado financeiro, referente ao Ibovespa: https://www.google.com/finance/
+
+document.querySelector("#yDmH0d > c-wiz:nth-child(38) > div > div.KdK6Xc > div.e1AOyf > div > div > div > div.d1dlne > input.Ax4B8.ZAGvjd")
+
+
+2.	Campo de notícias sobre criptomoedas e os mercados de moedas digitais: https://cryptopanic.com/ 
+
+document.querySelector("body > div.app-layout > div.app-left-pane.app-pane > div.left-nav > a.left-nav-item.router-link-exact-active > span:nth-child(2) > font > font")
