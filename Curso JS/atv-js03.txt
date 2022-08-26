@@ -1,0 +1,7 @@
+Dados do tipo STRING para visualizar ou se cadastrar na rede social do LinkedIn
+Login utilizando os seguintes campos:
+Usuário: (digite seu e-mail)
+Senha: (digite a senha)
+
+Rede social para estudantes o site (https://brainly.com.br) do tipo Perguntas e Respostas.
+Nele podem ser encontrados vários tipos de Dados, tipo Lógico, string, float, number, boolean. 

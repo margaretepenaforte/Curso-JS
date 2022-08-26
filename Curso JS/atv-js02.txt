@@ -1,0 +1,2 @@
+Instalei o Visual Studio Code e o NODE JS 
+São os mais populares na utilização em JavaScript.
